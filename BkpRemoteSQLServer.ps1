@@ -1,4 +1,4 @@
-# Function that executes remote backup in SQL Server instances. 
+# Function that executes remote backup (asynchronous, using jobs) in SQL Server instances. 
 
 Function GetStatusCode
 { 
