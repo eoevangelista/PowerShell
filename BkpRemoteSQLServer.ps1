@@ -1,3 +1,5 @@
+# Function that executes remote backup in SQL Server instances. 
+
 Function GetStatusCode
 { 
 	Param([int] $StatusCode)  
